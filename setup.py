@@ -8,7 +8,7 @@ setup(
   author='pjw',
   author_email='asfd',
   license='pjw',
-  packages=['hi'],
+  packages=['shell'],
   zip_safe=False,
   install_requires=[
     'flask'
