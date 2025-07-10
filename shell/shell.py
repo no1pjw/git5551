@@ -1,1 +1,2 @@
-print("hihi")
+import os
+print(os.system("cat flag"))
